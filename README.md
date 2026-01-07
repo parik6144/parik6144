@@ -237,3 +237,160 @@ Biju Patnaik University of Technology (2013)
 ✅ Compliance-required digital signatures
 
 ---
+
+## 🤖 AI & Prompt Engineering Expertise
+
+### AI Tools Proficiency
+
+I have extensive hands-on experience working with multiple advanced AI platforms and developing sophisticated prompting strategies across different AI models:
+
+#### 🎯 AI Platforms & Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-10A37F?style=flat-square&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity%20AI-2D2D2D?style=flat-square&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4A90E2?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20IDE-00C7B7?style=flat-square&logoColor=white)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-FF6B6B?style=flat-square&logoColor=white)
+![Coder](https://img.shields.io/badge/Coder-007ACC?style=flat-square&logoColor=white)
+
+### Prompt Engineering Skills
+
+**Expert in developing and optimizing prompts for:**
+
+- 🎓 **Advanced Prompt Techniques**
+  - Chain-of-Thought (CoT) prompting for complex problem solving
+  - Few-shot learning and in-context learning strategies
+  - Role-based prompting for specialized AI behaviors
+  - Recursive prompting for multi-step tasks
+  - Prompt chaining for complex workflows
+
+- 💡 **Use Cases & Applications**
+  - Code generation and debugging with AI assistants
+  - Documentation creation and technical writing
+  - API design and architecture planning
+  - Database schema optimization
+  - Bug fixing and code review automation
+  - Learning complex technologies quickly
+  - Brainstorming and ideation for projects
+  - Content optimization and enhancement
+
+- 🔧 **AI-Assisted Development Workflow**
+  - Using Cursor IDE for AI-powered code completion
+  - Leveraging ChatGPT for rapid prototyping
+  - DeepSeek for deep technical analysis
+  - Perplexity for real-time research and information gathering
+  - Claude for detailed problem-solving discussions
+  - AntiGravity for specific development tasks
+  - Coder for code-specific optimizations
+
+### Hands-On Experience
+
+**Proficiency Level: Advanced** ⭐⭐⭐⭐⭐
+
+✅ Mastered prompt writing techniques across 7+ AI platforms
+✅ Successfully implemented AI-assisted development workflows
+✅ Optimized AI responses for specific technical requirements
+✅ Integrated AI tools into daily development process
+✅ Created complex multi-step prompts for automation
+✅ Fine-tuned prompts for consistent, high-quality outputs
+
+---
+
+## 📱 CMS & Website Builder Expertise
+
+### CMS Platforms Mastery
+
+I have hands-on expertise in building, customizing, and managing websites across multiple CMS and website builder platforms:
+
+#### 🔧 CMS Platforms
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-F58620?style=flat-square&logo=joomla&logoColor=white)
+
+### WordPress Expertise
+
+**Master-level skills in WordPress development:**
+
+- 🏗 **WordPress Core Development**
+  - Theme customization and development
+  - Plugin development and integration
+  - Custom post types and taxonomies
+  - Advanced WordPress hooks and filters
+  - WordPress API integration
+  - Performance optimization
+  - Security hardening
+
+- 🎎 **WordPress Customization**
+  - Child theme development
+  - Custom theme creation from scratch
+  - Page builders (Elementor, Divi, etc.)
+  - WooCommerce setup and customization
+  - Multi-site management
+  - Migration and backup strategies
+
+- 📦 **Popular WordPress Plugins**
+  - Advanced SEO optimization
+  - E-commerce integration
+  - Performance caching
+  - Security and firewall setup
+  - Backup and recovery
+  - Contact forms and lead generation
+
+### Website Builder Proficiency
+
+**Wix Expertise:**
+
+✅ Complete website creation without coding
+✅ Advanced design customization
+✅ App integration and third-party services
+✅ E-commerce setup and management
+✅ SEO optimization within Wix platform
+✅ Mobile-responsive design implementation
+✅ Analytics and performance tracking
+
+**Other Platforms:**
+
+✅ Shopify store setup and optimization
+✅ Webflow advanced interactions and animations
+✅ Joomla component and module management
+
+### CMS Proficiency Levels
+
+| Platform | Level | Experience |
+|----------|-------|-------------|
+| WordPress | ⭐⭐⭐⭐⭐ Expert | 8+ years |
+| Wix | ⭐⭐⭐⭐ Advanced | 4+ years |
+| Shopify | ⭐⭐⭐⭐ Advanced | 3+ years |
+| Webflow | ⭐⭐⭐ Intermediate | 2+ years |
+| Joomla | ⭐⭐⭐ Intermediate | 2+ years |
+
+### Key CMS Achievements
+
+🎯 **Website Performance**
+- Optimized WordPress sites for 90+ PageSpeed scores
+- Reduced page load times by 60%+ through caching and optimization
+- Implemented CDN integration for global reach
+
+🛡 **Security & Compliance**
+- Implemented SSL certificates and HTTPS enforcement
+- Set up comprehensive security protocols
+- Regular updates and vulnerability patching
+- GDPR and compliance setup
+
+📋 **Traffic & Conversions**
+- Increased website traffic through SEO optimization
+- Improved conversion rates with optimized forms
+- A/B testing implementation
+- Analytics integration and tracking
+
+💼 **Business Solutions**
+- E-commerce site setup and management
+- Membership site creation
+- Course platform setup (LMS integration)
+- Client-specific customizations
+
+---
