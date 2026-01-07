@@ -160,3 +160,80 @@ Biju Patnaik University of Technology (2013)
 ---
 
 **Let's build something amazing together! Feel free to reach out.** 🚀
+
+---
+
+## 💼 Featured Projects
+
+### 🏪 MobileID Payment Authorization System
+
+> A secure, enterprise-grade payment authorization system that enables organizations to authorize financial transactions using mobile devices with biometric authentication, PIN verification, and cryptographic signatures.
+
+**🌐 Website:** [https://mobileid.dj/](https://mobileid.dj/)
+
+#### Key Highlights
+
+✨ **Multi-Factor Security**
+- PIN + Biometric authentication
+- RSA 2048-bit digital signatures
+- JWT-based push notifications
+- Real-time transaction integrity verification
+
+🔐 **Enterprise Features**
+- Multi-organization support with isolated key management
+- Role-based access control (RBAC)
+- Firebase Cloud Messaging integration
+- Real-time status tracking and webhooks
+
+📱 **Platform Support**
+- RESTful API architecture
+- Android/iOS mobile app integration
+- Web portal for transaction management
+- Developer-friendly API documentation
+
+🛶 **Security Implementation**
+- Organization-specific cryptographic keys
+- Encrypted data transmission
+- Two-layer cryptographic system (JWT + RSA)
+- Transaction timeout management
+- Non-repudiation support
+
+💾 **Database Architecture**
+- Transaction details management
+- API details tracking
+- Organization key management
+- Audit logging for compliance
+
+#### Technology Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+
+#### Core Capabilities
+
+1. **Payment Authorization API** - Initiate and manage payment requests
+2. **Status Polling** - Real-time payment status tracking
+3. **Signature Verification** - Cryptographic signature validation
+4. **Mobile Integration** - Seamless app notification and approval workflow
+5. **Transaction Management** - Complete lifecycle management from request to completion
+6. **Organization Management** - Multi-tenant key and access control
+
+#### Security Status Codes
+- 🟢 **700/703/800** - Success (Authorization successful)
+- 🟡 **801** - Pending (Awaiting user action)
+- 🔴 **799/810/822/823/824** - Error/Rejection/Timeout
+
+#### Use Cases
+
+✅ Corporate payment approvals
+✅ Bank fund transfers
+✅ Financial transaction verification
+✅ High-value transaction authorization
+✅ Compliance-required digital signatures
+
+---
