@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with **8+ years of experience** in analyzing, designing, developing, and managing web-based software applications. I specialize in building scalable, robust, and high-performance applications on distributed client-server, Internet, and Intranet environments.
+I'm a passionate **Full Stack Developer** with **10 years of experience** in analyzing, designing, developing, and managing web-based software applications. I specialize in building scalable, robust, and high-performance applications on distributed client-server, Internet, and Intranet environments.
 
 Currently working as **Senior PHP Developer at Virtual Employee**, I focus on creating solutions that improve productivity through regular code reviews, data optimization, and thorough testing of all modules.
 
